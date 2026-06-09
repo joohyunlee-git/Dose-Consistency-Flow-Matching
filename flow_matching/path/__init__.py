@@ -16,7 +16,6 @@ __all__ = [
     "ProbPath",
     "AffineProbPath",
     "CondOTProbPath",
-    "GaussianPath",
     "ConvexProbPath",
     "PolynomialConvexProbPath",
     "VPProbPath",
