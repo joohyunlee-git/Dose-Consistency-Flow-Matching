@@ -1,6 +1,6 @@
 # Dose-Consistency Flow Matching (DCFM)
 
-Official implementation of **Dose-Consistency Flow Matching** for ultra-low-dose PET image enhancement.
+Official implementation of **Dose-Consistency Flow Matching** for low-dose PET image denoising.
 
 This repository is built on top of Meta's Flow Matching library:
 > https://github.com/facebookresearch/flow_matching
