@@ -1,0 +1,14 @@
+torch
+torchmetrics[image]
+torchvision
+numpy
+tqdm
+h5py
+matplotlib
+natsort
+torchdiffeq
+scikit-learn
+scipy
+torchio
+nibabel
+openpyxl
